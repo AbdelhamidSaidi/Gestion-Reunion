@@ -1,6 +1,8 @@
 # **Meeting Management System (GESTION_REUNION) - SQL Database**  
 
 This repository contains a **SQL Server database schema** designed for managing meetings, participants, documents, and notifications within an organization. The database, named **GESTION_REUNION**, provides a structured way to handle meeting scheduling, employee invitations, room availability, and follow-up documentation.  
+![image](https://github.com/user-attachments/assets/34be5f4b-c5d5-4448-8057-6394ada0ebb0)
+
 
 ## **📌 Features**  
 
