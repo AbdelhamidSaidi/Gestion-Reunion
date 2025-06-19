@@ -1,6 +1,0 @@
-1;Rapport 782;Rapport;.pdf;C://mon_chemin;2025-10-02;10:19
-2;Ordre de jour;ordre de jour;.docx;C/monChemin2/OrdreDuJour;2025-01-13;09:00
-3;Alerte;Alerte;.pdf;C/Dossier/Reun1/monFich1;2025-01-01;01:01
-4;Paladins;Compte rendu;.pdf;C/Users/Home/ReunionDonnees/Paladins.pdf;2025-02-02;02:02
-5;DocNv;Annexe;.pdf;C/abc/efdg;2025-01-01;01:01
-6;Mon DOC 2;Convocation;.pdf;C/ABC/EFG;2025-09-09;12:10
