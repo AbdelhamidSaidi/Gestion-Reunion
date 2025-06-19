@@ -1,1 +1,0 @@
-gcc -Iincludes src/*.c -o bin/app; if($?) { ./bin/app }
