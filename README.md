@@ -73,7 +73,6 @@ Or, compile and run in a single line:
 gcc -Iincludes src/*.c -o bin/app && ./bin/app
 ```
 
-> ✅ The `&&` ensures the program only runs if compilation is successful.
 
 
 ## 🏆 Auteurs
