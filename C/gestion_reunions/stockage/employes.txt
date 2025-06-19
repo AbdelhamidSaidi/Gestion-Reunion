@@ -1,0 +1,4 @@
+1;BK745069;Mriqi;Abdelhaq;Mriqi@gmail.com;0696478231;9;4
+2;AB487959;Raziq;Mahmoud;Raziq@gmail.com;06594819;2;9
+3;IK89572345;Andaloussi;Omar;Andaloussi@gmail.com;0678431245;2;1
+4;AB123456;Tester;Testee;Tester@gmail.com;0666898970;4;6
