@@ -45,7 +45,40 @@ The database includes:
 ✔ **Employee Productivity Tracking** – Measure time spent in meetings per employee.  
 ✔ **Automated Notifications** – Alert participants about upcoming meetings.  
 
-## **📥 How to Use**  
-1. Execute the SQL script in **Microsoft SQL Server** to create the database, then use the provided **stored procedures** to interact with the database 
 
-Ideal for **HR departments, project managers, and office administrators** looking for an efficient way to manage meetings and employee engagement.  
+## 🚀 How to Use
+
+1. **Navigate to the project directory** in your terminal:
+
+```bash
+cd path/to/your/project
+```
+
+2. **Compile the project** using `gcc`:
+
+```bash
+gcc -Iincludes src/*.c -o bin/app
+```
+
+
+3. **Run the application**:
+
+```bash
+./bin/app
+```
+
+Or, compile and run in a single line:
+
+```bash
+gcc -Iincludes src/*.c -o bin/app && ./bin/app
+```
+
+> ✅ The `&&` ensures the program only runs if compilation is successful.
+
+
+## 🏆 Auteurs
+
+- Abdelhamid SAIDI - [@abdelhamid_saidi](https://www.linkedin.com/in/abdelhamid-saidi-181582326/)
+- Anas RIFAK - [@anas_rifak](https://www.linkedin.com/in/anas-rifak-502347343/)
+- Safaa MOUFKI - [@safaa_moufki](https://www.linkedin.com/in/moufki-safaa-6354a0279/)
+
