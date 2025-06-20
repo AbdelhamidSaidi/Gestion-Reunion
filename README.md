@@ -46,6 +46,71 @@ The database includes:
 ✔ **Automated Notifications** – Alert participants about upcoming meetings.  
 
 
+
+## 📁 Structure du projet
+
+```
+📁C:.
+│   📄codeDeCompilation.txt
+│
+├───📁.vscode
+│       📄settings.json
+│
+├───📁bin
+│       📄app
+│
+├───📁includes
+│       📄counters.h
+│       📄date_heure.h
+│       📄documents.h
+│       📄employes.h
+│       📄entreprises.h
+│       📄gestion_reunions.h
+│       📄invitations.h
+│       📄menu.h
+│       📄notifications.h
+│       📄notifications_invitations.h
+│       📄ordres_du_jour.h
+│       📄recherche.h
+│       📄reunions.h
+│       📄reunions_documents.h
+│       📄roles.h
+│       📄saisie.h
+│       📄salles.h
+│
+├───📁src
+│       📄counters.c
+│       📄date_heure.c
+│       📄documents.c
+│       📄employes.c
+│       📄entreprises.c
+│       📄invitations.c
+│       📄main.c
+│       📄menu.c
+│       📄notifications.c
+│       📄notifications_invitations.c
+│       📄ordres_du_jour.c
+│       📄reunions.c
+│       📄reunions_documents.c
+│       📄roles.c
+│       📄saisie.c
+│       📄salles.c
+│
+└───📁stockage
+        📄documents.txt
+        📄employes.txt
+        📄entreprises.txt
+        📄invitations.txt
+        📄notifications.txt
+        📄notifications_invitations.txt
+        📄ordres_du_jour.txt
+        📄reunions.txt
+        📄reunions_documents.txt
+        📄roles.txt
+        📄salles.txt
+
+```
+
 ## 🚀 How to Use
 
 1. **Navigate to the project directory** in your terminal:
